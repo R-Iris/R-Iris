@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my repository 👋
 
-<!--
-**R-Iris/R-Iris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Though I've only been programming for a year and half, I'm excited to learn more about the different paradigms it has to offer. Check out my pins for projects I've worked on recently!
 
-Here are some ideas to get you started:
+- 🚧 I’m currently learning more about ***RESTful APIs***, if you have any good ressources for it let me know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+
+You can reach me here: <a href="https://www.linkedin.com/in/irismariaradu/">
+  <img align="center" alt="Iris's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
