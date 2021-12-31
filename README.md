@@ -1,6 +1,6 @@
 ### Welcome to my repository 👋
 
-Though I've only been programming for a year and half, I'm excited to learn more about the different paradigms it has to offer. Check out my pins for projects I've worked on recently!
+Though I've only been programming for a year and half, I'm excited to learn more about the different paradigms it has to offer. Check out my pins for projects I've recently worked on!
 
 - 🚧 I’m currently learning more about ***RESTful APIs***, if you have any good ressources for it let me know
 
